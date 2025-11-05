@@ -7,17 +7,29 @@
 5. Show results table (Task 5)
 6. Exit
 Choose [1-6]: 1
+
 How many students? 5
+
 Enter name for student 1: a
+
 Enter marks for a (0-100): 54
+
 Enter name for student 2: b
+
 Enter marks for b (0-100): 87
+
 Enter name for student 3: c
+
 Enter marks for c (0-100): 34
+
 Enter name for student 4: d
+
 Enter marks for d (0-100): 98
+
 Enter name for student 5: e
+
 Enter marks for e (0-100): 01
+
 Current marks: {'a': 54.0, 'b': 87.0, 'c': 34.0, 'd': 98.0, 'e': 1.0}
 
 ========== GradeBook Menu ==========
