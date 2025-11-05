@@ -1,6 +1,3 @@
-# gradebook_analyzer
-
-
 
 ========== GradeBook Menu ==========
 1. Enter student data (Task 1)
@@ -10,7 +7,6 @@
 5. Show results table (Task 5)
 6. Exit
 Choose [1-6]: 1
-
 How many students? 5
 Enter name for student 1: a
 Enter marks for a (0-100): 54
